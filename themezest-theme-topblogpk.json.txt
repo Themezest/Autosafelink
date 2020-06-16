@@ -1,0 +1,38 @@
+{
+  "name": "Top Blog Pk",
+  "short_name": "topblogpk",
+  "start_url": "https://topblogpk.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#1976d2",
+  "description": "TopBlog Pk Where to Share Tutorials and Tricks Blogger, Premium Blogger Template, Blogger Design, Blogger Widget, Blogger Tutorial, Social media tutorials and Blogspot for beginners Blogger HTML, Javascript, CSS, Templates, AdSense",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-IYbFX9dRveo/XuNVZBevB-I/AAAAAAAAAGM/-4ESqMH0FPIDAg9i02iA1OV6C2FUesJ8gCNcBGAsYHQ/s48/TopBlogPk.jpg",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-IYbFX9dRveo/XuNVZBevB-I/AAAAAAAAAGM/-4ESqMH0FPIDAg9i02iA1OV6C2FUesJ8gCNcBGAsYHQ/s72/TopBlogPk.jpg",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-IYbFX9dRveo/XuNVZBevB-I/AAAAAAAAAGM/-4ESqMH0FPIDAg9i02iA1OV6C2FUesJ8gCNcBGAsYHQ/s96/TopBlogPk.jpg",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-IYbFX9dRveo/XuNVZBevB-I/AAAAAAAAAGM/-4ESqMH0FPIDAg9i02iA1OV6C2FUesJ8gCNcBGAsYHQ/s144/TopBlogPk.jpg",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-IYbFX9dRveo/XuNVZBevB-I/AAAAAAAAAGM/-4ESqMH0FPIDAg9i02iA1OV6C2FUesJ8gCNcBGAsYHQ/s168/TopBlogPk.jpg",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-IYbFX9dRveo/XuNVZBevB-I/AAAAAAAAAGM/-4ESqMH0FPIDAg9i02iA1OV6C2FUesJ8gCNcBGAsYHQ/s192/TopBlogPk.jpg",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-IYbFX9dRveo/XuNVZBevB-I/AAAAAAAAAGM/-4ESqMH0FPIDAg9i02iA1OV6C2FUesJ8gCNcBGAsYHQ/s512/TopBlogPk.jpg",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
