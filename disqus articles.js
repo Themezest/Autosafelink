@@ -44,25 +44,25 @@ document.write(' \
 	 </style>\
 	 <ul class="dsq-widget-list">\
 	 <li class="dsq-widget-item">\
-	 <a href="https://disqus.com/by/Themezest/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/34246/7964/avatar92.jpg?1593346929"></a>\
+	 <a href="https://disqus.com/by/themezest/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/34246/7964/avatar92.jpg?1593346929"></a>\
 	 <a class="dsq-widget-user" href="https://disqus.com/by/themezest/">Themezest</a>\
 	 <span class="dsq-widget-comment"><p>i am using us vpn to rich your site</p></span>\
-	 <p class="dsq-widget-meta"><a href="https://themezest.blogspot.com/2020/05/quick-mag-magazine-blogger-template.html">Quick-Mag Magazine Blogger Template | Queen &amp; King Clone Blogger Template By Themezest</a>&nbsp;&middot;&nbsp;<a href="https://th3safelink.blogspot.com/2020/05/quick-mag-magazine-blogger-template.html#comment-4934688563">4 weeks ago</a></p>\
+	 <p class="dsq-widget-meta"><a href="https://themezest.blogspot.com/2020/05/quick-mag-magazine-blogger-template.html">Quick-Mag Magazine Blogger Template | Queen &amp; King Clone Blogger Template By Themezest</a>&nbsp;&middot;&nbsp;<a href="https://topblogpk.blogspot.com/2020/05/quick-mag-magazine-blogger-template.html#comment-4934688563">4 weeks ago</a></p>\
 	 </li>\
 	 <li class="dsq-widget-item">\
-	 <a href="https://disqus.com/by/sayemmiaji/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/34246/7964/avatar92.jpg?1593346929"></a>\
-	 <a class="dsq-widget-user" href="https://disqus.com/by/sayemmiaji/">Sayem Miaji</a>\
+	 <a href="https://disqus.com/by/themezest/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/34246/7964/avatar92.jpg?1593346929"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/themezest/">Themezest</a>\
 	 <span class="dsq-widget-comment"><p>why  your blog is block on bangladesh by government <a href="https://uploads.disquscdn.com/images/24b9b592ea645a9dcc456df297edc3d9a9fbfce589375de13e185f341d5212b8.png" rel="nofollow noopener" title="https://uploads.disquscdn.com/images/24b9b592ea645a9dcc456df297edc3d9a9fbfce589375de13e185f341d5212b8.png">https://uploads.disquscdn.c...</a></p></span>\
-	 <p class="dsq-widget-meta"><a href="https://themezest.blogspot.com/2020/05/quick-mag-magazine-blogger-template.html">Quick-Mag Magazine Blogger Template | Queen &amp; King Clone Blogger TemplateTh3 Safelink</a>&nbsp;&middot;&nbsp;<a href="https://th3safelink.blogspot.com/2020/05/quick-mag-magazine-blogger-template.html#comment-4934687943">4 weeks ago</a></p>\
+	 <p class="dsq-widget-meta"><a href="https://themezest.blogspot.com/2020/05/quick-mag-magazine-blogger-template.html">Quick-Mag Magazine Blogger Template | Queen &amp; King Clone Blogger TemplateTh3 Safelink</a>&nbsp;&middot;&nbsp;<a href="https://themezest.blogspot.com/2020/05/quick-mag-magazine-blogger-template.html#comment-4934687943">4 weeks ago</a></p>\
 	 </li>\
 	 <li class="dsq-widget-item">\
-	 <a href="https://disqus.com/by/sayemmiaji/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/34246/7964/avatar92.jpg?1593346929"></a>\
+	 <a href="https://disqus.com/by/themezest/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/34246/7964/avatar92.jpg?1593346929"></a>\
 	 <a class="dsq-widget-user" href="https://disqus.com/by/themezest/">Themezest</a>\
 	 <span class="dsq-widget-comment"><p>nice template keep it up i am your fen now love from bangladesh</p></span>\
 	 <p class="dsq-widget-meta"><a href="https://themezest.blogspot.com/2020/05/pkralid-responsive-blogger-template.html">PkRalid Responsive Blogger Template | Queen &amp; King Clone Blogger Template By Themezest</a>&nbsp;&middot;&nbsp;<a href="https://themezest.blogspot.com/2020/05/pkralid-responsive-blogger-template.html#comment-4928397386">1 month ago</a></p>\
 	 </li>\
 	 <li class="dsq-widget-item">\
-	 <a href="https://disqus.com/by/shampc/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/25482/9649/avatar92.jpg?1517406725"></a>\
+	 <a href="https://disqus.com/by/themezest/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/25482/9649/avatar92.jpg?1517406725"></a>\
 	 <a class="dsq-widget-user" href="https://disqus.com/by/themezest/">Themezest</a>\
 	 <span class="dsq-widget-comment"><p>side bar <br>test comment</p></span>\
 	 <p class="dsq-widget-meta"><a href="https://topblogpk.blogspot.com/2018/05/successful-analysis-can-become-key-to.html">Successful analysis can become the key to your business success</a>&nbsp;&middot;&nbsp;<a href="https://topblogpk.blogspot.com/2018/05/successful-analysis-can-become-key-to.html#comment-4922048601">1 month ago</a></p>\
